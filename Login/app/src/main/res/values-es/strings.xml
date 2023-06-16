@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inicio de sesion</string>
+    <string name="error_message">Un error a ocurrido</string>
+    <string name="result_message">Resultado:</string>
+    <string name="write_user">Escribe tu usuario: </string>
+    <string name="sign_up">Iniciar sesion</string>
+    <string name="user">Usuario</string>
+    <string name="incorrect_user">Usuario incorrecto</string>
+    <string name="welcome">Bienvenido %s</string>
+    <string name="password">Contraseña</string>
+    <string name="write_your_password">Escribe tu contraseña</string>
+    <string name="hello_world">Hola mundo</string>
+</resources>

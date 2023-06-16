@@ -16,10 +16,7 @@
             android:id="@+id/book_image"
             android:layout_width="120dp"
             android:layout_height="120dp"
-            android:layout_marginStart="8dp"
-            android:layout_marginTop="8dp"
-            android:layout_marginEnd="8dp"
-            android:layout_marginBottom="8dp"
+            android:layout_margin="8dp"
             android:src="@android:drawable/ic_menu_camera" />
 
         <EditText
@@ -28,13 +25,13 @@
             android:layout_height="wrap_content"
             android:layout_alignTop="@id/book_image"
             android:layout_toEndOf="@+id/book_image"
-            android:hint="@string/book_title_label" />
+            android:hint="@string/book_title" />
 
         <EditText
             android:id="@+id/book_authors"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/book_authors_label"
+            android:hint="@string/book_authors"
             android:layout_toEndOf="@+id/book_image"
             android:layout_alignBottom="@id/book_image"
             android:layout_marginTop="16dp"
@@ -93,6 +90,5 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:text="@string/save_btn" />
-
     </RelativeLayout>
 </layout>

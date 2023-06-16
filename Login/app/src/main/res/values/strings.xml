@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="error_message">An error has ocurred</string>
+    <string name="result_message">Result:</string>
+    <string name="write_user">Write your user</string>
+    <string name="sign_up">Sign up</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="incorrect_user">Incorrect user</string>
+    <string name="welcome">Welcome %s</string>
+    <string name="write_your_password">Write your password</string>
+    <string name="hello_world">Hello world</string>
+</resources>
