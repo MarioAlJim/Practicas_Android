@@ -3,22 +3,22 @@ plugins {
 }
 
 android {
-    namespace 'com.example.practica1'
+    namespace 'com.wolf'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.practica1"
-        minSdk 24
+        applicationId "com.wolf"
+        minSdk 29
         targetSdk 33
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled Enable
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
@@ -35,5 +35,5 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+        androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 }

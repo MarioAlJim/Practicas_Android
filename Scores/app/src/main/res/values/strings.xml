@@ -1,8 +1,8 @@
 <resources>
+    <string name="plus_one" translatable="false">+</string>
+    <string name="plus_two" translatable="false">++</string>
     <string name="app_name" translatable="false">Scores</string>
     <string name="minus_one" translatable="false">-1</string>
-    <string name="plus_one" translatable="false">+1</string>
-    <string name="plus_two" translatable="false">+2</string>
     <string name="local" translatable="false">Local</string>
     <string name="visitor">Visitor</string>
     <string name="zero" translatable="false">0</string>
@@ -12,3 +12,4 @@
     <string name="local_visitor_score_format" translatable="false">%1$d - %2$d</string>
     <string name="it_was_a_tie">It was a tie 😕</string>
 </resources>
+

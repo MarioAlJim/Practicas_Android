@@ -1,4 +1,4 @@
-package com.example.booksrating;
+package com.wolf.scores;
 
 import org.junit.Test;
 

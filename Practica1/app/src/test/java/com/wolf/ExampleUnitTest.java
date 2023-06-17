@@ -1,4 +1,4 @@
-package com.example.monitor;
+package com.wolf;
 
 import org.junit.Test;
 

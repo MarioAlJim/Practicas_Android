@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name" translatable="false">Practica1</string>
-    <string name="to_greet">To Greet</string>
+    <string name="app_name">Conversor</string>
+    <string name="to_greet"></string>
     <string name="your_name">Your name:</string>
-    <string name="write_here">Write here</string>
-    <string name="you_should_write_your_name">You should write your name</string>
+    <string name="write_here">Write_here</string>
     <string name="welcome_message">Hi %s ! welcome to DDA course</string>
+    <string name="your_should_write_your_name">Your should write your name</string>
+    <string name="write_temperature">Write the temperature in °Fahrenheit</string>
+    <string name="temperature_f">Temperature in F°</string>
+    <string name="convert_to_c">CONVERT TO °C</string>
+    <string name="success">Success conversion</string>
+    <string name="fail">Fail in conversion</string>
 </resources>

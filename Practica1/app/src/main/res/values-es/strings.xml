@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Conversor</string>
     <string name="to_greet">Saludar</string>
     <string name="your_name">Tu nombre:</string>
-    <string name="write_here">Escribe aquí</string>
-    <string name="you_should_write_your_name">Debes escribir tu nombre</string>
+    <string name="write_here">Escribe aqui</string>
     <string name="welcome_message">Hola %s ! bienvenido al curso DDA</string>
+    <string name="your_should_write_your_name">Debes escribir tu nombre</string>
+    <string name="write_temperature">Ingresa la temperatura en °Farentheit</string>
+    <string name="temperature_f">TEMPERATURA F°</string>
+    <string name="convert_to_c">CONVERTIR TA°C</string>
+    <string name="success">Conversion exitosa</string>
+    <string name="fail">Fallo en conversion</string>
 </resources>

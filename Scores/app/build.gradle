@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.scores'
+    namespace 'com.wolf.scores'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.scores"
-        minSdk 24
+        applicationId "com.wolf.scores"
+        minSdk 29
         targetSdk 33
         versionCode 1
         versionName "1.0"
@@ -26,6 +26,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
     dataBinding{
         enabled true
     }
